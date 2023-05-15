@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Andrea Knápková</title>
+    <link>/</link>
+    <description>Recent content on Andrea Knápková</description>
+    <image>
+      <title>Andrea Knápková</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kontakt/</guid>
+      <description>Na naše setkání se můžete objednat telefonicky nebo e-mailem. Telefon: + 420 777 885 407
+E-mail: info@andreaknapkova.cz
+Adresa: Na Výspě 650/16, Ostrava Výškovice
+Pracuji od pondělí do čtvrtka, převážně v dopoledních hodinách, v případě potřeby je možné se domluvit individuálně. Předpokládaný čas strávený na jednom terapeutickém sezení je 1,5 až 2 hodiny.</description>
+    </item>
+    
+    <item>
+      <title>Metoda</title>
+      <link>/metoda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/metoda/</guid>
+      <description>Pro svou práci používám: Metodu NLP – neurolingvistické programování Metodu KTM – kvantová transformace mysli Metodu TEP – transformační energetická psychologie Metodu EFT – Techniky emoční svobody Meditaci Mým cílem je ukázat člověku, že je mnohem komfortnější být v roli tvůrce, nežli oběti. A žít šťastný, zdravý, spokojený, vyrovnaný život nehledě na okolnostech a vnějších vlivech z okolí.
+Nejsem lékař, nedokážu vás vyléčit, nebudu za vás dělat kroky, které jsou potřeba pro zkvalitnění vašeho života.</description>
+    </item>
+    
+    <item>
+      <title>O mně</title>
+      <link>/o-mne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/o-mne/</guid>
+      <description>Vystudovala jsem obor výchovně humanitární činnost na střední odborné škole s ukončeným vzděláním maturitou.
+Absolvovala jsem kurz Snoezelen zakončený certifikací, kurz Kvantové terapie, kurz Access Bars a akreditovaný výcvik Terapeuta transformační psychologie v Institutu transformační psychologie zakončeným zkouškou.
+Dále jsem se samovzdělávala četbou knih a zajímavých článků.
+Momentálně se věnuji individuální terapii.</description>
+    </item>
+    
+    <item>
+      <title>Terapie</title>
+      <link>/terapie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/terapie/</guid>
+      <description>Vytvořila jsem pomocí svého vnitřního vedení velmi příjemný prostor, který je určen k celkovému uvolnění těla i mysli. Nabízím vám přátelské vedení, kdy se na mě můžete obrátit s plnou důvěrou, nemusíte se bát, že vás budu soudit. Samozřejmostí je pro mě dodržení etického kodexu, kdy to, co mi sdělíte a vše, co bude probíhat v rámci terapie, zůstává čistě jen mezi mnou a vámi (klientem).
+První naše společné setkání proběhne hlavně v zájmu našeho vzájemného poznávání se.</description>
+    </item>
+    
+  </channel>
+</rss>
